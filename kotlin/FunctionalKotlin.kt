@@ -1,3 +1,5 @@
+package com.huawei.test
+
 // functional style
 data class Employees(val name: String, val surname: String, val sentDailyReport: Boolean, val averageMark: Double)
 

@@ -1,4 +1,6 @@
-// implement isNullOrEven() method for Int?
+package com.huawei.test
+
+// implement isNullOrEven() method for Int? type
 
 fun main() {
     val number1: Int? = null
@@ -6,8 +8,8 @@ fun main() {
     val number3: Int? = 1
     val number4: Int? = 2
 
-    number1.isNullOrEven() eq true
-    number2.isNullOrEven() eq true
-    number3.isNullOrEven() eq false
-    number4.isNullOrEven() eq true
+    number1.isNullOrEven() == true
+    number2.isNullOrEven() == true
+    number3.isNullOrEven() == false
+    number4.isNullOrEven() == true
 }

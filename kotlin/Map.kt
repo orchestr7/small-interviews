@@ -8,6 +8,8 @@ fun main() {
     val map = mapOf( testMap1 to "first", testMap2 to "second")
     testMap1.x = 1
     testMap1.y = 4
+
+    // what will be printed here?
     println(map[testMap2])
     println(map[testMap1])
 }

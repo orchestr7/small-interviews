@@ -1,5 +1,7 @@
 package com.huawei.test
 
+// Kotlin - is a truely null safe language, but what will happen in the following code?
+
 open class A(open val value: String) {
     init {
         value.replace("a", "")

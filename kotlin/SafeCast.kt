@@ -1,3 +1,5 @@
+package com.huawei.test
+
 // declare and initialize s variable so it will return null in first line
 // and throw cast exception on the second line
 

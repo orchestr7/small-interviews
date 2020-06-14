@@ -6,10 +6,11 @@
 5. Checked/Unchecked exceptions
 6. ArrayList vs LinkedList
 7. HashMap organization
-8. Java Memory Model?
+8. Java Memory Model? Main three postulates.
 9. Happens before relation. What it is?
-10. Volatile.
+10. Volatile - how it works and why does it needed.
 11. Atomics - what are they needed for. What is CAS operations?
 12. Synchronized on method vs synchronized on code block.
 13. What static keyword is used for? What's is it role in JMM 9?
-14. Which design patterns on java do you know? What is a Singleton?
+14. Which design patterns on java do you know? Why do you need a private constructor? What is a Singleton?
+15. How primitive GC works? What is SoftReference, WeakReference, PhantomReference?
