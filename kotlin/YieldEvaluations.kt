@@ -22,4 +22,9 @@ fun veryComplexYield() {
         yieldAll(listOf(6, 7, 8, 9))
         println("Fourth print")
     }
+
+    someSequence
+            .map{it + 15 }
+            .filter{it > 16 }
+            .first()
 }
