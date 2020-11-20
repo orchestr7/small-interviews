@@ -1,0 +1,20 @@
+1. Usage of this in extensions:
+T.foo() {
+	this.bar()
+	bar()
+	foo()
+}
+
+2. How to transform a map? 
+// transform keys + values
+hashMap.entries.associate { it.key.toUpperCase() to it.value.toUpperCase() }
+
+3. If there are private modifier on methods on internal (nested) classes in a base class. Will Parent class see and aware about these methods?
+
+4. What is the difference between Java package-private and Kotlin internal modifier?
+
+5. What will be printed:
+fun main() {
+    val a = 2.0 - 1.1
+    println(a)
+}

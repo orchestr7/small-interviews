@@ -1,27 +1,24 @@
-0. How many primitives do you know in Java? Is String a primitive? Where primitive objects are stored? In heap or in stack?
-1. StringBuffer vs StringBuilder. What is the difference?
-2. You have multiple strings - you need to join it. How you would do that with Java8?
-3. Which access modifiers do you know in Java?
-4. Is Java a pass-by-reference or pass-by-value?
-5. Checked/Unchecked exceptions. Is "Exception" checked or unchecked?
-6. ArrayList vs LinkedList. Insertion. Does the size changes on the deletion of an element from ArrayList?
-7. HashMap organization
-8. Collection vs Streams - how are they used and what is the difference?
-   Functional API: what is Predicate interface and what it can be used for?
-
-
-9. Java Memory Model? Main three postulates.
-10. Happens before relation. What it is?
-11. Volatile - how it works and why does it needed.
-12. Atomics - what are they needed for. What is CAS operations?
-13. Synchronized on method vs synchronized on code block.
-14. What static keyword is used for? What's is it role in JMM 9?
-
-
-15. Which design patterns on java do you know? Why do you need a private constructor? What is a Singleton?
-16. How primitive GC works? What is SoftReference, WeakReference, PhantomReference?
-17. Which GC do you know in Java HotSpot?
-18. What keywords like transient or native are used?
+- How many primitives do you know in Java? Is String a primitive? Where primitive objects are stored? In heap or in stack?
+- Which variables are 
+- StringBuffer vs StringBuilder. What is the difference?
+- You have multiple strings - you need to join it. How you would do that with Java8?
+- Which access modifiers do you know in Java?
+- Is Java a pass-by-reference or pass-by-value?
+- Checked/Unchecked exceptions. Is "Exception" checked or unchecked?
+- ArrayList vs LinkedList. Insertion. Does the size changes on the deletion of an element from ArrayList?
+- HashMap organization
+- Collection vs Streams - how are they used and what is the difference?
+- Functional API: what is Predicate interface and what it can be used for?
+- Java Memory Model? Main three postulates.
+- Happens before relation. What it is?
+- Volatile - how it works and why does it needed.
+- Atomics - what are they needed for. What is CAS operations?
+- Synchronized on method vs synchronized on code block.
+- What static keyword is used for? What's is it role in JMM 9?
+- Which design patterns on java do you know? Why do you need a private constructor? What is a Singleton?
+- How primitive GC works? What is SoftReference, WeakReference, PhantomReference?
+- Which GC do you know in Java HotSpot?
+- What keywords like transient or native are used?
 
 
 

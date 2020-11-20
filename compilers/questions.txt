@@ -1,0 +1,29 @@
+﻿- Which Compiler ado you prefer  to use and why? 
+
+- What is GCC IR? What is Clang IR? What is GCC GIMPLE?
+Can you example any instruction of LLVM IR /GCC GIMPLE
+
+- Preprocessor optimizations which do you know? 
+
+- How to measure performance of the compiler? Which benchmarks do you know? What is Spec.org?
+
+- What is compiler frontend? Which functional parts of frontend do you know?
+
+- Name optimizations that can be made by optimizing compiler?
+
+- What is auto-vectorizer? Do you know any other loop optimizations?  
+  What is AVX? Tell the difference between AVX-512 and AVX-256
+
+- For your preferred compiler - name optimization levels and say differences between them: for example –O0 vs –O3
+
+- Undefined Behavior – what is it? Give an example of UB, when the behavior was different between different compilers.
+
+- Virtual destructor. What is it? Is there a virtual constructor? 
+
+- Inline optimization in compilers – what is it? When it can be evil?
+
+- Atomic operations. Why needed and how do they work? Compare and swap – how does it work?  Write on pseudocode if possible.
+
+- new() vs maloc() – what is the difference? 
+
+- JIT compilation vs AOT – what is the difference?
