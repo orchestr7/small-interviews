@@ -1,4 +1,4 @@
-public class ObjectPassByReference {
+class ObjectPassByReference {
     public static void main(String[] args) {
         IntermediateClass aClass = new IntermediateClass("a");
         IntermediateClass bClass = aClass;
@@ -21,7 +21,7 @@ public class ObjectPassByReference {
     }
 }
 
-public class IntermediateClass {
+class IntermediateClass {
     private String nameOfClass;
 
     IntermediateClass(String value) {

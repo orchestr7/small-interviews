@@ -1,3 +1,6 @@
+/**
+* Is Java pass-by-value or pass-by-reference?
+*/
 class A {
     private String value;
 
@@ -12,11 +15,7 @@ class A {
     A(String val) {
         this.value = val;
     }
-}
 
-// ===== main call =====
-
-class StringChangeInObject {
     public static void main(String[] args) {
         A a = new A("a");
         A b = new A(a.getValue());
