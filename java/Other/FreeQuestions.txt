@@ -20,5 +20,6 @@
 - Which GC do you know in Java HotSpot?
 - What keywords like transient or native are used?
 
-
+======== Kotlin ======
+How to count the number of strings included as substrings in other string
 
