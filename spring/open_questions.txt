@@ -1,0 +1,4 @@
+1. Write an example of dependency injection pattern (Inversion of control).
+2. @Autowired annotation. Autowired on property vs on constructor.
+3. Types of Spring Scope.
+4. Spring @DependsOn annotation
