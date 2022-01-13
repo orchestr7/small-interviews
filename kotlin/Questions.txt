@@ -18,3 +18,9 @@ fun main() {
     val a = 2.0 - 1.1
     println(a)
 }
+
+6. What actual/expect modifiers are used for?
+
+7. What is a coroutine? What is the difference between future/promise vs a coroutine?
+
+8. What is Inlining and how is it implemented in Kotlin?
