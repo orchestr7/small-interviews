@@ -21,6 +21,7 @@
 - Happens before relation. What it is?
 - How many primitives do you know in Java? Is String a primitive? Where primitive objects are stored? In heap or in stack?
 - Volatile - how it works and why does it needed?
+- What is Thread Local? What are the disadvantages (uncontrolled set from anywhere, high cost of inheritance). What is the lifetime of ThreadLocal? What should I do to clean it?
 - Atomics - what are they needed for. What is CAS operations? 
 - Synchronized on method vs synchronized on code block?
 - Why Atomics can be worse than synchronized?
