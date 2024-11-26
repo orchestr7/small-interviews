@@ -1,2 +1,4 @@
 1. Calculate sqrt(INT) without using standard functions and return truncated int as a result
 2. Given the head of a linked list, remove the Nth node from the end of the list and return its head: 1->2->3->4 to 1->2->4
+3. Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+4. Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
